@@ -1,0 +1,8 @@
+{
+  "input" : [
+    { "item" : "refinedferozium", "count" : 10 }
+
+  ],
+  "output" : { "item" : "feroziumdrill", "count" : 1 },
+  "groups" : [ "drillupgradetable", "tools", "all" ]
+}

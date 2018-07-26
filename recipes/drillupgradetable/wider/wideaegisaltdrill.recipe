@@ -1,0 +1,9 @@
+{
+  "input" : [
+    { "item" : "aegisaltdrill", "count" : 1 },
+    { "item" : "refinedviolium", "count" : 16 }
+
+  ],
+  "output" : { "item" : "wideaegisaltdrill", "count" : 1 },
+  "groups" : [ "drillupgradetable", "tools", "all" ]
+}

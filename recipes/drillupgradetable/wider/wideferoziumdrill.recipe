@@ -1,0 +1,9 @@
+{
+  "input" : [
+    { "item" : "feroziumdrill", "count" : 1 },
+    { "item" : "refinedviolium", "count" : 16 }
+
+  ],
+  "output" : { "item" : "wideferoziumdrill", "count" : 1 },
+  "groups" : [ "drillupgradetable", "tools", "all" ]
+}

@@ -1,0 +1,8 @@
+{
+  "input" : [
+    { "item" : "stickofram", "count" : 5 },
+    { "item" : "feroziumdrill", "count" : 1 }
+  ],
+  "output" : { "item" : "proferoziumdrill", "count" : 1 },
+  "groups" : [ "drillupgradetable", "tools", "all" ]
+}

@@ -1,0 +1,10 @@
+{
+  "author" : "Pierrce",
+  "description" : "Drills+ is a mod that adds more drill progression towards the end of the game. Initially created for all the end-game ores, including those removed like Rubium, Impervium, and Cerulium, Drills+ now only supports Aegisalt, Ferozium, and Violium. \n\nItems Added:\nDrillUpgradeTable : Architect's Table\nAegisaltDrill : DrillUpgradeTable\nFeroziumDrill : DrillUpgradeTable\nVioliumDrill: DrillUpgradeTable\n\nWide Variants - 5x5 block destruction\nPro Variants - Increased destruction speed\nPlated Variants - Increased Durability",
+  "friendlyName" : "Drills+",
+  "link" : "steam://url/CommunityFilePage/1271978713",
+  "name" : "Drills+",
+  "steamContentId" : "1271978713",
+  "tags" : "In-Game Tools",
+  "version" : "3.1.0"
+}

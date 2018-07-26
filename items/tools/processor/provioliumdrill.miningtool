@@ -1,0 +1,33 @@
+{
+  "itemName" : "provioliumdrill",
+  "inventoryIcon" : "provioliumdrillicon.png",
+  "dropCollision" : [-4.0, -3.0, 4.0, 3.0],
+  "maxStack" : 1,
+  "rarity" : "Rare",
+  "tooltipKind" : "tool",
+  "description" : "An upgraded violium drill! So purple!",
+  "shortdescription" : "Upgraded Violium Drill",
+  "largeImage" : "provioliumdrillbig.png",
+  "image" : "provioliumdrill.png:{frame}",
+  "frames" : 5,
+  "animationCycle" : 0.1,
+  "handPosition" : [-8, 1],
+  "pointable" : true,
+  "swingStart" : 0,
+  "swingFinish" : 0,
+  "fireTime" : 0.3,
+  "blockRadius" : 3,
+  "altBlockRadius" : 1,
+  "twoHanded" : true,
+  "idleSound" : "/sfx/tools/chainsaw_idle.wav",
+  "strikeSounds" : [ "/sfx/tools/drill_hit.wav" ],
+  "breakSound" : "/sfx/tools/pickaxe_break.wav",
+  "durability" : 3750,
+  "durabilityPerUse" : 1,
+  "durabilityRegenChart" : [
+    [ [ "copperore" ], 750], [ [ "silverore" ], 1125], [ [ "goldore" ], 1500], [ [ "platinumore" ], 1875], [ [ "diamond" ], 2250], [ [ "aegisaltore" ], 2750], [ [ "Feroziumbar" ], 3000], [ [ "Ceruliumbar" ], 3250], [ [ "Violiumbar" ], 3500]
+  ],
+  "tileDamage" : 5.6,
+  "harvestLevel" : 99,
+  "tileDamageBlunted" : 0.2
+}

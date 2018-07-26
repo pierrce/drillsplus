@@ -1,0 +1,64 @@
+{
+  "objectName" : "drillupgradetable",
+  "colonyTags" : ["crafting"],
+  "rarity" : "Legendary",
+  "price" : 7500,
+  "radioMessagesOnPickup" : [ ],
+  "printable" : false,
+  "description" : "High Tech drill upgrading table!",
+  "shortdescription" : "Drill Upgrading Table",
+  "race" : "generic",
+  "category" : "crafting",
+  
+  "interactAction" : "OpenCraftingInterface",
+  "interactData" : {
+    "config" : "/interface/windowconfig/crafting.config",
+	"paneLayoutOverride" : {
+      "windowtitle" : {
+        "title" : "Drill Upgrading Station",
+        "subtitle" : "Upgrade your drills here!",
+        "icon" : {
+          "file" : "/interface/crafting/craftingicon.png"
+        }
+      }
+    },
+    "filter" : [ "drillupgradetable" ]
+  },
+
+  "apexDescription" : "A fancy crafting table.",
+  "avianDescription" : "A mechanical crafting table.",
+  "floranDescription" : "Floran once get in fight with table like this.",
+  "glitchDescription" : "Confused. This table is familiar.",
+  "humanDescription" : "A robot table! The revolution begins!",
+  "hylotlDescription" : "How strange. A robotic crafting table.",
+
+  "inventoryIcon" : "drillupgradetableicon.png",
+  "orientations" : [
+    {
+      "imageLayers" : [ { "image" : "drillupgradetable.png:<color>.<frame>", "fullbright" : true }, { "image" : "drillupgradetable.png:<color>.<frame>" } ],
+      "imagePosition" : [-16, 0],
+
+      "direction" : "left",
+      "flipImages" : true,
+
+      "frames" : 4,
+      "animationCycle" : 0.4,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    },
+
+    {
+      "imageLayers" : [ { "image" : "drillupgradetable.png:<color>.<frame>", "fullbright" : true }, { "image" : "drillupgradetable.png:<color>.<frame>" } ],
+      "imagePosition" : [-16, 0],
+
+      "direction" : "right",
+
+      "frames" : 4,
+      "animationCycle" : 0.4,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    }
+  ]
+}

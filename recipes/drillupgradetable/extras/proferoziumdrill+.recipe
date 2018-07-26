@@ -1,0 +1,8 @@
+{
+  "input" : [
+    { "item" : "proaegisaltdrill", "count" : 1 },
+    { "item" : "refinedferozium", "count" : 20 }
+  ],
+  "output" : { "item" : "proferoziumdrill", "count" : 1 },
+  "groups" : [ "drillupgradetable", "tools", "all" ]
+}

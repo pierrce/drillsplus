@@ -1,0 +1,8 @@
+{
+  "input" : [
+    { "item" : "refinedaegisalt", "count" : 10 }
+
+  ],
+  "output" : { "item" : "aegisaltdrill", "count" : 1 },
+  "groups" : [ "drillupgradetable", "tools", "all" ]
+}

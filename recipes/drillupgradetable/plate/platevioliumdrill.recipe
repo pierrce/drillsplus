@@ -1,0 +1,8 @@
+{
+  "input" : [
+    { "item" : "hardenedcarapace", "count" :2 },
+    { "item" : "violiumdrill", "count" : 1 }
+  ],
+  "output" : { "item" : "platevioliumdrill", "count" : 1 },
+  "groups" : [ "drillupgradetable", "tools", "all" ]
+}

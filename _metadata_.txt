@@ -1,0 +1,8 @@
+{
+  "author" : "Pierrce",
+  "description" : "Adds more drills to the end game.",
+  "friendlyName" : "Drills+",
+  "link" : "github.com/pierrce",
+  "name" : "Drills+",
+  "version" : "3.0"
+}
